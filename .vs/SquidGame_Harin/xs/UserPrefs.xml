@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{478FC822-9262-F03D-B949-0073FA46C57F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyAssets_copy/StoneGenerator.cs">
+    <Files>
+      <File FileName="Assets/MyAssets_copy/StoneController.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyAssets_copy/StoneGenerator.cs" Line="16" Column="61" />
+      <File FileName="Assets/Breakable Windows/Scripts/BreakableWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyAssets_copy/Work.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9aef8ab5-c34c-4fa0-a55f-e7402b634ff4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
