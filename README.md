@@ -1,5 +1,3 @@
-# CGSquidGame
-
 작업 내용:
 1. 아이템(손전등)
 - "L" 버튼으로 손전등 킴. 방향키 입력 시 꺼짐. item Flash Light -> MyAssets_copy/itemFlashLight.cs
